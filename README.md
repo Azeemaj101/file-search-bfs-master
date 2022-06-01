@@ -15,4 +15,4 @@ A console python application that searches for file(s) in Windows based on the s
 Feel free to fork the project but please no pull request.
 
 ### License and Copyright ###
-This package is Copyright (c) Ryan Gilera 2014 and is licensed under the MIT license. See [license](https://github.com/Daytron/file-search-bfs/blob/master/LICENSE) for more details.
+This package is Copyright (c) Muhammad Azeem 2022 and is licensed under the MIT license.
